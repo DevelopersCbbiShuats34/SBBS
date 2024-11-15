@@ -1,6 +1,6 @@
 echo "BUILD START"
 
-/vercel/path0/venv/bin/python3.9 -m pip install --upgrade pip
+python3.9 -m pip install --upgrade pip
 # create a virtual environment named 'venv' if it doesn't already exist
 python3.9 -m venv venv
 
