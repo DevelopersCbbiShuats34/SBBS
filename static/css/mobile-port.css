@@ -1,0 +1,701 @@
+@media (max-width: 320px) {
+    .top-div {
+      position: absolute;
+      background-image: none;
+      display: flex;
+      width: 1500px;
+      background-color: rgb(47, 174, 255);
+      left: 0px;
+      top: 0px;
+      height: 80px;
+    }
+    .title-txt {
+      position: absolute;
+      font-family: "Open Sans";
+      top: 0px;
+      width: max-content;
+      left: 87px;
+    }
+    .gwd-span-bqkw {
+      color: rgb(255, 255, 255);
+      font-family: "Open Sans";
+      font-weight: 500;
+      font-size: 16px;
+    }
+    .logo-img {
+      height: 80px;
+      width: 85px;
+    }
+    .gwd-img-bhdg {
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+    .subtitle-txt {
+      position: absolute;
+      font-family: "Open Sans";
+      font-style: italic;
+      color: rgb(255, 255, 255);
+      left: 87px;
+      top: 43px;
+      font-size: 10px;
+    }
+    .home-pane {
+      position: absolute;
+      background-image: none;
+      background-color: rgb(213, 238, 255);
+      border-radius: 10px 100px / 120px 100px;
+      width: 315px;
+      height: 350px;
+      left: 18px;
+      top: 346px;
+    }
+    .gwd-p-1isa {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: bold;
+      color: rgb(1, 141, 255);
+      text-align: justify;
+      font-size: 12px;
+      line-height: 20px;
+      width: 273px;
+      left: 39px;
+      height: 272px;
+      top: 393px;
+    }
+    .gwd-span-1ntc {
+      font-family: "Open Sans";
+      color: rgb(1, 141, 255);
+      line-height: 0px;
+      font-weight: normal;
+      font-size: 12px;
+    }
+    .gwd-span-1si3 {
+      position: absolute;
+      text-align: justify;
+      color: rgb(1, 141, 255);
+      font-style: italic;
+      font-weight: normal;
+      font-family: Pacifico;
+      left: 31px;
+      top: 96px;
+      font-size: 8px;
+    }
+    .query-input-field {
+      position: absolute;
+      width: 100px;
+      height: 20px;
+      left: 349px;
+      top: 317px;
+    }
+    .about-pane {
+      position: absolute;
+      background-image: none;
+      background-color: rgb(213, 238, 255);
+      border-radius: 10px 100px / 120px 100px;
+      width: 315px;
+      left: 18px;
+      height: 380px;
+      top: 709px;
+    }
+    .gwd-p-1r3f {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: bold;
+      color: rgb(1, 141, 255);
+      left: 31px;
+      font-size: 20px;
+      top: 355px;
+    }
+    .gwd-p-1c2z {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: bold;
+      color: rgb(1, 141, 255);
+      font-size: 20px;
+      left: 37px;
+      top: 718px;
+    }
+    .gwd-p-tj3d {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: bold;
+      color: rgb(1, 141, 255);
+      text-align: justify;
+      font-size: 12px;
+      line-height: 20px;
+      height: 243px;
+      width: 279px;
+      left: 35px;
+      top: 756px;
+    }
+    .gwd-span-wfg0 {
+      font-family: "Open Sans";
+      color: rgb(1, 141, 255);
+      font-weight: normal;
+      line-height: 0px;
+      font-size: 12px;
+    }
+    .joinus-link {
+      position: absolute;
+      font-family: "Open Sans";
+      background-image: none;
+      background-color: rgb(47, 174, 255);
+      border-image-source: none;
+      border-image-repeat: stretch;
+      border-color: rgb(1, 141, 255);
+      border-radius: 32px;
+      text-decoration: none;
+      color: rgb(255, 255, 255);
+      top: 118px;
+      font-size: 12px;
+      left: 105px;
+      text-align: center;
+      padding: 8px;
+      line-height: 0px;
+      width: 102px;
+      height: 26px;
+    }
+    .gwd-span-1cz4 {
+      font-family: "Open Sans";
+      font-weight: 800;
+      line-height: 15px;
+      font-size: 20px;
+      color: rgb(255, 255, 255);
+    }
+    .gwd-span-5c3a {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: 600;
+      border-image-source: none;
+      border-image-width: 1;
+      border-image-outset: 0;
+      border-image-repeat: stretch;
+      border-color: rgb(248, 249, 252);
+      background-image: none;
+      background-color: rgb(47, 174, 255);
+      color: rgb(255, 255, 255);
+      border-radius: 32px;
+      padding: 10px;
+      font-size: 20px;
+      height: 20px;
+      width: 76px;
+      text-align: center;
+      left: 216px;
+      top: 1039px;
+    }
+    .gwd-span-1vyw {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: 600;
+      text-align: justify;
+      transform-origin: 50% 50% 0px;
+      color: rgb(1, 141, 255);
+      width: 183px;
+      font-size: 20px;
+      height: 32px;
+      left: 23px;
+      top: 1101px;
+    }
+    .new-event-pane {
+      position: absolute;
+      left: 62px;
+      top: 1195.2px;
+      background-color: rgb(213, 238, 255);
+      border-radius: 10px 100px / 120px 100px;
+      width: 315px;
+      height: 160px;
+    }
+    .gwd-span-1vqm {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: 600;
+      text-align: justify;
+      width: 279px;
+      line-height: 15px;
+      color: rgb(4, 141, 182);
+      font-size: 12px;
+      left: 35px;
+      top: 1168px;
+      height: 96px;
+    }
+    .gwd-span-11at {
+      font-weight: normal;
+      color: rgb(1, 141, 255);
+      font-size: 12px;
+    }
+    .gwd-span-196a {
+      color: rgb(4, 141, 182);
+    }
+    .gwd-span-1bid {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: 600;
+      text-align: justify;
+      height: 96px;
+      width: 273px;
+      line-height: 15px;
+      left: 36px;
+      top: 1338px;
+      font-size: 12px;
+      background-image: none;
+      color: rgb(1, 141, 255);
+    }
+    .aim-box2 {
+      left: 63px;
+      top: 1360px;
+    }
+    .gwd-span-1m1s {
+      color: rgb(1, 141, 255);
+      font-size: 12px;
+      font-weight: 400;
+    }
+    .gwd-div-1xb0 {
+      left: 18px;
+      top: 1140px;
+    }
+    .gwd-span-1xkf {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: 600;
+      text-align: justify;
+      color: rgb(255, 255, 255);
+      height: 96px;
+      line-height: 15px;
+      width: 273px;
+      font-size: 12px;
+      left: 38px;
+      top: 1513px;
+    }
+    .gwd-div-2hvl {
+      left: 18px;
+      top: 1489px;
+    }
+    .gwd-span-1w0t {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: 600;
+      text-align: justify;
+      color: rgb(255, 255, 255);
+      height: 96px;
+      line-height: 15px;
+      left: 39px;
+      width: 271px;
+      font-size: 12px;
+      top: 1690px;
+    }
+    .gwd-div-1ei7 {
+      left: 18px;
+      top: 1664px;
+    }
+    .gwd-span-vlhl {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: 600;
+      text-align: justify;
+      color: rgb(255, 255, 255);
+      height: 96px;
+      line-height: 15px;
+      left: 37px;
+      width: 271px;
+      font-size: 12px;
+      top: 1882px;
+    }
+    .gwd-div-1dzn {
+      left: 18px;
+      top: 1841px;
+    }
+    .gwd-div-vrc6 {
+      left: 17px;
+      top: 2018px;
+    }
+    .gwd-span-1oo3 {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: 600;
+      text-align: justify;
+      color: rgb(255, 255, 255);
+      height: 96px;
+      line-height: 15px;
+      width: 271px;
+      left: 38px;
+      font-size: 12px;
+      top: 2041px;
+    }
+    .gwd-div-1wg1 {
+      left: 17px;
+      top: 2195px;
+    }
+    .gwd-span-n1nv {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: 600;
+      text-align: justify;
+      color: rgb(255, 255, 255);
+      height: 96px;
+      line-height: 15px;
+      width: 272px;
+      left: 36px;
+      font-size: 12px;
+      top: 2226px;
+    }
+    .gwd-div-c5d1 {
+      left: 15px;
+      top: 171px;
+    }
+    .gwd-div-1a49 {
+      left: 18px;
+      top: 1314px;
+    }
+    .conference-title-span {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: 600;
+      text-align: justify;
+      background-image: none;
+      background-color: transparent;
+      color: rgb(98, 98, 98);
+      font-size: 12px;
+      height: 53px;
+      width: 279px;
+      left: 28px;
+      top: 187px;
+    }
+    .register-link {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: 600;
+      text-align: justify;
+      color: rgb(255, 255, 255);
+      border-radius: 32px;
+      background-color: rgb(47, 174, 255);
+      font-size: 12px;
+      padding: 10px;
+      left: 167px;
+      top: 284px;
+    }
+    .notice-link {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: 600;
+      text-align: justify;
+      color: rgb(1, 141, 255);
+      border-radius: 32px;
+      border: 1.5px solid rgb(1, 141, 255);
+      font-size: 12px;
+      padding: 10px;
+      left: 251px;
+      top: 283px;
+    }
+    .gwd-span-2s5o {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: 600;
+      transform-origin: 50% 50% 0px;
+      color: rgb(1, 141, 255);
+      text-align: center;
+      width: 153px;
+      font-size: 20px;
+      line-height: 20px;
+      left: 15px;
+      top: 2368px;
+      height: 27px;
+    }
+    .govern-img-in {
+      width: 100px;
+      height: 100px;
+    }
+    .govern-img {
+      position: absolute;
+      left: 548px;
+      top: 2523px;
+      z-index: 1;
+    }
+    .gwd-img-xbfo {
+      z-index: 1;
+      top: 2570px;
+      left: 209px;
+    }
+    .gwd-img-fpew {
+      top: 2882px;
+      left: 25px;
+    }
+    .gwd-img-1451 {
+      z-index: 1;
+      top: 2727px;
+      left: 210px;
+    }
+    .gwd-img-1oe9 {
+      z-index: 1;
+      top: 2569px;
+      left: 31px;
+    }
+    .gwd-img-pu6v {
+      top: 2726px;
+      left: 26px;
+    }
+    .gwd-img-19ng {
+      top: 2882px;
+      left: 210px;
+    }
+    .president-title {
+      position: absolute;
+      left: 488px;
+      top: 2715.6px;
+      width: 420px;
+      height: 220.8px;
+      background-color: rgb(213, 238, 255);
+    }
+    .gwd-span-jq2x {
+      position: absolute;
+      font-family: "Open Sans";
+      color: rgb(1, 141, 255);
+      font-weight: bold;
+      text-align: center;
+      transform-origin: 177px 63.6001px 0px;
+      left: 90px;
+      top: 2516px;
+      font-size: 11px;
+    }
+    .gwd-span-awxr {
+      font-weight: 500;
+      font-style: italic;
+    }
+    .gwd-span-p6f0 {
+      position: absolute;
+      font-family: "Open Sans";
+      color: rgb(1, 141, 255);
+      font-weight: bold;
+      text-align: center;
+      line-height: 10px;
+      top: 2988px;
+      left: 22px;
+      font-size: 11px;
+    }
+    .gwd-span-1maw {
+      position: absolute;
+      font-family: "Open Sans";
+      color: rgb(1, 141, 255);
+      font-weight: bold;
+      text-align: center;
+      line-height: 10px;
+      top: 2832px;
+      left: 197px;
+      font-size: 11px;
+    }
+    .gwd-span-al7j {
+      position: absolute;
+      font-family: "Open Sans";
+      color: rgb(1, 141, 255);
+      font-weight: bold;
+      text-align: center;
+      line-height: 10px;
+      top: 2677px;
+      left: 209px;
+      font-size: 11px;
+    }
+    .gwd-span-1g59 {
+      position: absolute;
+      font-family: "Open Sans";
+      color: rgb(1, 141, 255);
+      font-weight: bold;
+      text-align: center;
+      left: 17px;
+      top: 2673px;
+      line-height: 10px;
+      transform-origin: 50% 50% 0px;
+      width: 114.974px;
+      height: 30.9819px;
+      transform: translate3d(7px, 3px, 0px) rotateZ(-0.66647deg);
+      font-size: 11px;
+    }
+    .gwd-span-p5j6 {
+      position: absolute;
+      font-family: "Open Sans";
+      color: rgb(1, 141, 255);
+      font-weight: bold;
+      text-align: center;
+      line-height: 10px;
+      top: 2832px;
+      left: 20px;
+      font-size: 11px;
+    }
+    .gwd-span-xsb3 {
+      position: absolute;
+      font-family: "Open Sans";
+      color: rgb(1, 141, 255);
+      font-weight: bold;
+      text-align: center;
+      line-height: 10px;
+      top: 2988px;
+      left: 201px;
+      font-size: 11px;
+    }
+    .gwd-span-3aus {
+      font-style: normal;
+      font-weight: 700;
+    }
+    .gwd-span-uxm4 {
+      font-style: normal;
+      font-weight: 700;
+    }
+    .gwd-span-1usm {
+      font-style: normal;
+      font-weight: 700;
+    }
+    .gwd-span-6nk0 {
+      font-style: normal;
+      font-weight: 700;
+    }
+    .gwd-span-1sg8 {
+      font-style: normal;
+      font-weight: 700;
+    }
+    .gwd-span-tq85 {
+      font-style: normal;
+      font-weight: 700;
+    }
+    .transp-link {
+      color: rgb(1, 141, 255);
+    }
+    .footer-tab {
+      position: absolute;
+      width: 100%;
+      background-color: rgb(47, 174, 255);
+      left: 0px;
+      height: 230.8px;
+      top: 3054px;
+      bottom: 0px;
+      border-radius: 34px 34px 0px 0px;
+    }
+    .gwd-span-1sb5 {
+      position: absolute;
+      font-family: "Open Sans";
+      font-weight: bold;
+      text-align: justify;
+      color: rgb(255, 255, 255);
+      left: 25px;
+      top: 3060px;
+      font-size: 20px;
+    }
+    .gwd-span-1dm2 {
+      position: absolute;
+      font-family: "Open Sans";
+      font-size: 40px;
+      font-weight: bold;
+      text-align: justify;
+      color: rgb(255, 255, 255);
+      width: 320px;
+      line-height: 10px;
+      height: 129px;
+      left: 13px;
+      top: 3094px;
+    }
+    .gwd-span-l0jf {
+      font-weight: 500;
+      font-size: 12px;
+    }
+    .gwd-span-115w {
+      font-weight: 600;
+    }
+    .gwd-span-1utu {
+      font-weight: normal;
+      font-size: 12px;
+    }
+    .gwd-span-fhn2 {
+      font-size: 16px;
+    }
+    .gwd-div-1jhb {
+      position: absolute;
+      z-index: 0;
+      border: 3px solid rgb(1, 141, 255);
+      height: 90px;
+      width: 150px;
+      top: 2463px;
+      left: 83px;
+    }
+    .gwd-div-1e34 {
+      position: absolute;
+      border: 3px solid rgb(1, 141, 255);
+      z-index: 0;
+      height: 410px;
+      width: 315px;
+      left: 14px;
+      top: 2619px;
+    }
+    .gwd-img-12nx {
+      left: 109px;
+      top: 2406px;
+    }
+    .gwd-a-1ge7 {
+      font-size: 12px;
+    }
+    .gwd-a-1jo2 {
+      font-size: 16px;
+    }
+    .gwd-span-1y7n {
+      font-size: 35px;
+      color: rgb(4, 141, 182);
+    }
+    .gwd-span-b68e {
+      color: rgb(4, 141, 182);
+    }
+    .gwd-span-5xvp {
+      font-size: 12px;
+    }
+    .gwd-span-1ilv {
+      font-size: 12px;
+      line-height: 15px;
+    }
+    .gwd-span-v92b {
+      font-size: 12px;
+    }
+    .gwd-span-t9es {
+      font-size: 12px;
+    }
+    .gwd-span-1ww8 {
+      font-size: 12px;
+    }
+    .gwd-span-1e4j {
+      font-size: 12px;
+    }
+    .gwd-span-1u1t {
+      font-size: 11px;
+      line-height: 11px;
+    }
+    .gwd-span-1u6y {
+      font-size: 11px;
+    }
+    .gwd-span-1bk2 {
+      font-size: 11px;
+    }
+    .gwd-span-151q {
+      font-size: 11px;
+    }
+    .gwd-span-1gl0 {
+      font-size: 11px;
+    }
+    .gwd-span-1xin {
+      font-size: 11px;
+    }
+    .gwd-span-1ued {
+      font-size: 16px;
+    }
+    .gwd-span-chii {
+      color: rgb(4, 141, 182);
+      font-weight: 600;
+    }
+    .gwd-span-xm3s {
+      font-weight: normal;
+      color: rgb(1, 141, 255);
+    }
+    .gwd-span-mgen {
+      font-weight: normal;
+    }
+    .gwd-span-1cvf {
+      color: rgb(1, 141, 255);
+    }
+    .gwd-span-2760 {
+      color: rgb(1, 141, 255);
+    }
+  }

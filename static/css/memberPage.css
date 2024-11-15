@@ -1,0 +1,314 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+  }
+  body {
+    background-color: transparent;
+    transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    transform-style: preserve-3d;
+  }
+  body * {
+    transform-style: preserve-3d;
+  }
+  .gwd-img-1lqc {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  .top-div {
+    background-color: rgb(47, 174, 255);
+    display: flex;
+    height: 120px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 1515px;
+  }
+  .title-txt {
+    font-family: "Open Sans";
+    left: 135px;
+    position: absolute;
+    top: 0px;
+    width: 1064.09px;
+  }
+  .gwd-span-bqkw {
+    color: rgb(255, 255, 255);
+    font-family: "Open Sans";
+    font-size: 40px;
+    font-weight: 500;
+  }
+  .gwd-br-12g0 {
+    font-family: "Open Sans";
+  }
+  .logo-img {
+    height: 120px;
+    width: 125px;
+  }
+  .subtitle-txt {
+    color: rgb(255, 255, 255);
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-style: italic;
+    left: 135px;
+    position: absolute;
+    top: 50px;
+  }
+  .register-link {
+    background-color: rgb(47, 174, 255);
+    border-radius: 32px;
+    color: rgb(255, 255, 255);
+    display: block;
+    font-family: "Open Sans";
+    padding-block: 20px;
+    padding: 20px;
+    padding-inline: 20px;
+    position: absolute;
+    text-align: center;
+    height: 100px;
+    font-size: 40px;
+    font-weight: 400;
+    width: 230px;
+    left: 450px;
+    top: 998px;
+  }
+  .register-link-2 {
+    background-color: rgb(47, 174, 255);
+    border-radius: 32px;
+    color: rgb(255, 255, 255);
+    display: block;
+    font-family: "Open Sans";
+    padding-block: 20px;
+    padding: 20px;
+    padding-inline: 20px;
+    position: absolute;
+    text-align: center;
+    height: 100px;
+    font-size: 40px;
+    font-weight: 400;
+    width: 224px;
+    left: 850px;
+    top: 998px;
+  }
+  .gwd-a-1lx6 {
+    color: rgb(255, 255, 255);
+    font-family: "Open Sans";
+    font-size: 35px;
+    font-weight: 600;
+    text-align: justify;
+    text-decoration-line: none;
+    -webkit-text-decorations-in-effect: none;
+  }
+  .gwd-img-15o7 {
+    width: 60px;
+    height: 60px;
+  }
+  .gwd-img-1jsq {
+    position: absolute;
+    left: 33px;
+    top: 143px;
+  }
+  .gwd-span-175a {
+    position: absolute;
+    font-family: "Open Sans";
+    font-weight: 600;
+    text-align: justify;
+    transform-origin: 50% 50% 0px;
+    color: rgb(1, 141, 255);
+    height: 53px;
+    font-size: 40px;
+    left: 117px;
+    top: 147px;
+    width: 264px;
+  }
+  .gwd-span-okf5 {
+    position: absolute;
+    left: 117px;
+    font-family: "Open Sans";
+    font-size: 40px;
+    font-weight: 600;
+    text-align: justify;
+    color: rgb(1, 141, 255);
+    line-height: 35px;
+    top: 227px;
+    width: 1356px;
+    height: 230px;
+  }
+  .gwd-span-1rj0 {
+    font-size: 18px;
+    font-family: "Open Sans";
+    color: rgb(1, 141, 255);
+    font-weight: normal;
+  }
+  .gwd-div-10om {
+    left: 114px;
+    top: 475px;
+  }
+  .gwd-p-jh6f {
+    position: absolute;
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(1, 141, 255);
+    height: 54px;
+    width: 924px;
+    left: 152px;
+    top: 507px;
+  }
+  .home-pane {
+    background-color: rgb(213, 238, 255);
+    border-radius: 10px 100px / 120px 100px;
+    position: absolute;
+    width: 1000px;
+    height: 300px;
+  }
+  .gwd-span-yt4j {
+    font-size: 25px;
+  }
+  .gwd-span-eio9 {
+    font-weight: bold;
+  }
+  .gwd-span-rw9s {
+    font-size: 25px;
+  }
+  .gwd-p-16yt {
+    position: absolute;
+    font-family: "Open Sans";
+    color: rgb(1, 141, 255);
+    text-align: justify;
+    line-height: 40px;
+    font-size: 18px;
+    font-weight: 400;
+    width: 879px;
+    height: 190px;
+    left: 197px;
+    top: 581px;
+  }
+  .gwd-span-ufxi {
+    font-weight: bold;
+    font-size: 25px;
+  }
+  .gwd-span-14io {
+    font-weight: bold;
+  }
+  .gwd-span-1nk2 {
+    font-size: 25px;
+  }
+  .gwd-span-19ao {
+    font-weight: normal;
+  }
+  .gwd-span-842h {
+    font-size: 25px;
+  }
+  .gwd-span-1khi {
+    font-weight: normal;
+  }
+  .gwd-div-1e1f {
+    font-family: "Open Sans";
+    font-size: 20px;
+  }
+  .gwd-p-3ja2 {
+    position: absolute;
+    font-family: "Open Sans";
+    font-size: 18px;
+    text-align: justify;
+    color: rgb(1, 141, 255);
+    width: 1000px;
+    height: 160px;
+    left: 114px;
+    top: 806px;
+  }
+  .gwd-span-dork {
+    font-size: 30px;
+    font-family: "Open Sans";
+    font-weight: bold;
+    
+  }
+  .gwd-span-h9ot {
+    color: rgb(1, 141, 255);
+  }
+  .gwd-span-168d {
+    font-weight: bold;
+  }
+  .gwd-span-rs8t {
+    font-weight: bold;
+  }
+  .gwd-span-14eo {
+    font-weight: bold;
+  }
+  .gwd-span-1uw4 {
+    font-weight: bold;
+  }
+  .gwd-span-sndp {
+    font-weight: bold;
+  }
+  .gwd-span-1h4p {
+    position: absolute;
+    font-family: "Open Sans";
+    font-weight: bold;
+    text-align: justify;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    left: 83px;
+    top: 1192px;
+  }
+  .gwd-span-xgb9 {
+    position: absolute;
+    font-family: "Open Sans";
+    font-size: 40px;
+    font-weight: bold;
+    text-align: justify;
+    color: rgb(255, 255, 255);
+    line-height: 30px;
+    height: 158px;
+    width: 705px;
+    left: 127px;
+    top: 1260px;
+  }
+  .footer-tab {
+    background-color: rgb(47, 174, 255);
+    border-top-left-radius: 64px;
+    border-top-right-radius: 64px;
+    height: 300.8px;
+    position: absolute;
+    width: 1515px;
+    top: 1174px;
+    left: 0px;
+  }
+  .gwd-span-l0jf {
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .gwd-span-115w {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .gwd-span-fhn2 {
+    font-size: 25px;
+    font-weight: 600;
+  }
+  .gwd-br-1yrf {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .gwd-span-1utu {
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .gwd-br-jldo {
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .gwd-br-1xpm {
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .gwd-a-17nl {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration-line: none;
+    -webkit-text-decorations-in-effect: none;
+  }
+
+

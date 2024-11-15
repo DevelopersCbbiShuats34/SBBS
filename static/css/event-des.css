@@ -1,0 +1,365 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+}
+body {
+  background-color: transparent;
+  transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+  transform-style: preserve-3d;
+}
+body * {
+  transform-style: preserve-3d;
+}
+.gwd-img-wwpw {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.top-div {
+  background-color: rgb(47, 174, 255);
+  display: flex;
+  height: 120px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1515px;
+}
+.title-txt {
+  font-family: "Open Sans";
+  left: 135px;
+  position: absolute;
+  top: 0px;
+  width: 1064.09px;
+}
+.gwd-span-bqkw {
+  color: rgb(255, 255, 255);
+  font-family: "Open Sans";
+  font-size: 40px;
+  font-weight: 500;
+}
+.gwd-br-12g0 {
+  font-family: "Open Sans";
+}
+.logo-img {
+  height: 120px;
+  width: 125px;
+}
+.subtitle-txt {
+  color: rgb(255, 255, 255);
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-style: italic;
+  left: 135px;
+  position: absolute;
+  top: 50px;
+}
+.gwd-span-144i {
+  position: absolute;
+  left: 130px;
+  font-family: "Open Sans";
+  font-weight: 600;
+  text-align: justify;
+  transform-origin: 50% 50% 0px;
+  color: rgb(1, 141, 255);
+  height: 53px;
+  width: 442px;
+  font-size: 40px;
+  top: 161px;
+  
+}
+.gwd-div-1dx0 {
+  left: 89px;
+  top: 251px;
+}
+.gwd-span-cqqa {
+  position: absolute;
+  font-family: "Open Sans";
+  font-size: 35px;
+  font-weight: 600;
+  text-align: justify;
+  color: rgb(255, 255, 255);
+  height: 96px;
+  line-height: 35px;
+  left: 134px;
+  top: 276px;
+  width: 998px;
+}
+.new-event-pane {
+  background-color: rgb(213, 238, 255);
+  border-radius: 10px 100px / 120px 100px;
+  height: 140px;
+  position: absolute;
+  width: 1322px;
+}
+.gwd-span-196a {
+  color: rgb(4, 141, 182);
+}
+.gwd-span-11at {
+  color: rgb(1, 141, 255);
+  font-size: 18px;
+  font-weight: 400;
+}
+.gwd-font-xrgw {
+  font-size: 18px;
+  font-weight: 400;
+}
+.gwd-div-soqh {
+  left: 89px;
+  top: 428px;
+}
+.gwd-span-ei11 {
+  position: absolute;
+  font-family: "Open Sans";
+  font-size: 35px;
+  font-weight: 600;
+  text-align: justify;
+  color: rgb(255, 255, 255);
+  width: 1211px;
+  height: 96px;
+  line-height: 35px;
+  left: 134px;
+  top: 453px;
+}
+.gwd-div-1d1s {
+  left: 89px;
+  top: 605px;
+}
+.gwd-span-fcvj {
+  position: absolute;
+  font-family: "Open Sans";
+  font-size: 35px;
+  font-weight: 600;
+  text-align: justify;
+  color: rgb(255, 255, 255);
+  width: 1211px;
+  height: 96px;
+  line-height: 35px;
+  left: 134px;
+  top: 630px;
+}
+.gwd-div-o3mo {
+  left: 89px;
+  top: 782px;
+}
+.gwd-span-10vo {
+  position: absolute;
+  font-family: "Open Sans";
+  font-size: 35px;
+  font-weight: 600;
+  text-align: justify;
+  color: rgb(255, 255, 255);
+  width: 1211px;
+  height: 96px;
+  line-height: 35px;
+  left: 134px;
+  top: 807px;
+}
+.gwd-div-y71q {
+  top: 958px;
+  left: 87px;
+}
+.gwd-span-14kk {
+  position: absolute;
+  font-family: "Open Sans";
+  font-size: 35px;
+  font-weight: 600;
+  text-align: justify;
+  color: rgb(255, 255, 255);
+  width: 1211px;
+  height: 96px;
+  line-height: 35px;
+  left: 132px;
+  top: 983px;
+}
+.gwd-div-1q6z {
+  left: 87px;
+  top: 1134px;
+}
+.gwd-span-mo43 {
+  position: absolute;
+  font-family: "Open Sans";
+  font-size: 35px;
+  font-weight: 600;
+  text-align: justify;
+  color: rgb(255, 255, 255);
+  width: 1211px;
+  height: 96px;
+  line-height: 35px;
+  left: 132px;
+  top: 1159px;
+}
+.gwd-div-qmqt {
+  top: 1313px;
+  left: 87px;
+}
+.gwd-span-18ef {
+  position: absolute;
+  font-family: "Open Sans";
+  font-size: 35px;
+  font-weight: 600;
+  text-align: justify;
+  color: rgb(255, 255, 255);
+  width: 1211px;
+  height: 96px;
+  line-height: 35px;
+  top: 1338px;
+  left: 132px;
+}
+.gwd-font-1mdt {
+  font-size: 18px;
+  font-weight: 400;
+}
+.register-link {
+  background-color: rgb(47, 174, 255);
+  border-radius: 32px;
+  color: rgb(255, 255, 255);
+  display: block;
+  font-family: "Open Sans";
+  font-weight: 600;
+  padding-block: 20px;
+  position: absolute;
+  text-align: center;
+  padding: 15px;
+  padding-inline: 15px;
+  font-size: 30px;
+  left: 1181px;
+  top: 275px;
+}
+.gwd-a-1kql {
+  color: rgb(255, 255, 255);
+  font-family: "Open Sans";
+  font-size: 35px;
+  font-weight: 600;
+  text-align: justify;
+  text-decoration-line: none;
+  -webkit-text-decorations-in-effect: none;
+}
+.gwd-font-1rr5 {
+  font-size: 18px;
+  font-weight: 400;
+}
+.gwd-font-fv7d {
+  font-size: 18px;
+  font-weight: 400;
+}
+.gwd-font-o8bv {
+  font-size: 18px;
+  font-weight: 400;
+}
+.gwd-font-1s5w {
+  font-size: 18px;
+  font-weight: 400;
+}
+.gwd-font-ls15 {
+  font-size: 18px;
+  font-weight: 400;
+}
+.gwd-font-tbb0 {
+  font-size: 18px;
+  font-weight: 400;
+}
+.gwd-div-7fl9 {
+  top: 1486px;
+  left: 86px;
+}
+.gwd-span-tv3m {
+  position: absolute;
+  font-family: "Open Sans";
+  font-size: 35px;
+  font-weight: 600;
+  text-align: justify;
+  color: rgb(255, 255, 255);
+  width: 1211px;
+  height: 96px;
+  line-height: 35px;
+  top: 1511px;
+  left: 131px;
+}
+.gwd-font-dau3 {
+  font-size: 18px;
+  font-weight: 400;
+}
+.gwd-p-10vn {
+  position: absolute;
+  height: 27px;
+  font-size: 20px;
+  color: rgb(251, 17, 5);
+  width: 339px;
+  top: 366px;
+  left: 1087px;
+}
+.gwd-span-y9gu {
+  position: absolute;
+  font-family: "Open Sans";
+  font-weight: bold;
+  text-align: justify;
+  color: rgb(255, 255, 255);
+  font-size: 40px;
+  left: 86px;
+  top: 1990px;
+}
+.gwd-span-16yd {
+  position: absolute;
+  font-family: "Open Sans";
+  font-size: 40px;
+  font-weight: bold;
+  text-align: justify;
+  color: rgb(255, 255, 255);
+  line-height: 30px;
+  height: 158px;
+  width: 705px;
+  left: 130px;
+  top: 2058px;
+}
+.footer-tab {
+  background-color: rgb(47, 174, 255);
+  border-top-left-radius: 64px;
+  border-top-right-radius: 64px;
+  height: 300.8px;
+  position: absolute;
+  left: 0px;
+  width: 1515px;
+  top: 1972px;
+}
+.gwd-span-l0jf {
+  font-size: 18px;
+  font-weight: 500;
+}
+.gwd-span-115w {
+  font-size: 18px;
+  font-weight: 600;
+}
+.gwd-span-fhn2 {
+  font-size: 25px;
+  font-weight: 600;
+}
+.gwd-br-lnka {
+  font-size: 18px;
+  font-weight: 600;
+}
+.gwd-span-1utu {
+  font-size: 18px;
+  font-weight: 400;
+}
+.gwd-br-1a54 {
+  font-size: 18px;
+  font-weight: 400;
+}
+.gwd-br-fezw {
+  font-size: 18px;
+  font-weight: 400;
+}
+.gwd-a-uztx {
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.gwd-img-35hj {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 33px;
+  top: 143px;
+}
