@@ -12,9 +12,9 @@ source venv/bin/activate
 pip install -r requirement.txt
 
 # collect static files using the Python interpreter from venv
-# /vercel/path0/venv/bin/python3.9 manage.py collectstatic --noinput
+/vercel/path0/venv/bin/python3.9 manage.py collectstatic --noinput
 
-/vercel/path0/venv/bin/python3.9 manage.py runserver
+# /vercel/path0/venv/bin/python3.9 manage.py runserver
 
 echo "BUILD END"
 
