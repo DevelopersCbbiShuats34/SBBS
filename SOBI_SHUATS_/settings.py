@@ -31,7 +31,7 @@ SECRET_KEY='django-insecure-3k_9xei=4qv5_!q7%z=yimd4dk%k=&9x!jyh!gc+^8mn4js7=4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [".vercel.app", "127.0.0.1", ".now.sh"]
+ALLOWED_HOSTS = [".vercel.app", "127.0.0.1", "sbbsindia.in", ".now.sh"]
 
 
 
@@ -78,7 +78,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'SOBI_SHUATS_.wsgi.application'
+WSGI_APPLICATION = 'SOBI_SHUATS_.wsgi.app'
 
 
 # Database
